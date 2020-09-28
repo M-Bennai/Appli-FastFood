@@ -21,7 +21,7 @@ public class CommandeVeggie {
         int soda = 6;
         int choixBoisson;
         choixBoisson = acc.nextInt();
-        System.out.println("Merci pour votre commande, il vous faudra régler 9 euros.");
+        System.out.println("Merci pour votre commande, il vous faudra régler 9 euros svp.");
 
     }
 }

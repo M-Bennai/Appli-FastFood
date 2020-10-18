@@ -19,6 +19,7 @@ public class CommandePoulet {
         int eauPlate = 4;
         int eauGazeuse = 5;
         int soda = 6;
+        int i;
         int choixBoisson;
         choixBoisson = acc.nextInt();
         System.out.println("Merci pour votre commande, il vous faudra régler 9 euros svp.");
